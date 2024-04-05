@@ -1,0 +1,139 @@
+#main
+{
+    /* position: fixed; */
+    background-image: url("space.jpg");
+    background-repeat: no-repeat;
+    /* top: 200px; */
+    width: 100%;
+    top: 0px;
+    background-size: cover;
+    background-position: center;
+    height: 643px;
+}
+
+#hello
+{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+#content
+{
+    position: absolute;
+    border-radius: 30px;
+    right: 100px;
+    bottom: 40px;
+    background: rgba(252, 244, 244, 0.10);
+    /* background-color: aqua; */
+    width: 638px;
+    height: 500px;
+    flex-shrink: 0;
+}
+
+#email_heading
+{
+    position: absolute;
+    left: 100px;
+    top: 33px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inconsolata;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#email_text
+{
+    position: absolute;
+    right: 100px;
+    top: 38px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#phone_heading
+{
+    position: absolute;
+    left: 100px;
+    top:110px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inconsolata;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#phone_text
+{
+    position: absolute;
+    top:110px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inconsolata;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    right: 220px;
+}
+
+#location_heading
+{
+    position: absolute;
+    left: 100px;
+    bottom: 230px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inconsolata;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#location_text
+{
+    position: absolute;
+    bottom: 200px;
+    right: 90px;
+    color: #FFF;
+    /* text-align: center; */
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#feed
+{
+    position: absolute;
+    left: 100px;
+    bottom: 150px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#text-area
+{
+    position: absolute;
+    left: 100px;
+    bottom: 40px;
+    word-wrap: normal;
+    background-color: rgb(119, 0, 255);
+}

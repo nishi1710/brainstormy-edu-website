@@ -1,0 +1,109 @@
+.rootparent_c {
+    background-image: url("space_bg.jpeg");
+    width: 1263px;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+
+.main_
+{
+    padding-top: 30px;
+    color: #FFF;
+    font-family: Inconsolata;
+}
+
+.main_.text
+{
+    font-size: 26px;
+}
+
+/* .player
+{
+    flex-shrink: 0;
+    background: rgba(252, 244, 244, 0.10);
+    border-radius: 30px;
+} */
+
+.hamburger
+{ 
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: column nowrap;
+    -index: 10;
+}
+.burger
+{ 
+    width: 2rem;
+    height: 0.25rem;
+    border-radius: 10px;
+    background-color: white;
+    transform-origin: 1px;
+    transition: all 0.3s linear;
+}
+
+.bar
+{
+    position: absolute;
+    right: 100px;
+    top: 100px;
+    background-color: rgba(53, 34, 71, 1);
+}
+
+.info ul
+{
+    /* height: 100px; */
+    width: 200px;
+    margin-top: 50px;
+    position: absolute;
+    right: 70px;
+    top: 100px;
+    color: #FFF;
+    background-color: rgba(53, 34, 71, 0.427);
+    padding-top: 30px;
+}
+
+.info .bar_inline
+{
+    display: inline;
+}
+
+.info .bar_none {
+    display: none;
+}
+
+.player, .main_
+{
+    padding-left: 150px;
+}
+
+.info li
+{
+    width: 200px;
+    height: 50px;
+}
+
+.main_cp .header1
+{
+    font-size: 60;
+    font-family: Inconsolata;
+    color: #FFF;
+}
+
+.main_cp .nis
+{
+    background-color: rgba(53, 34, 71, 0.55);;
+    width: 1240px;
+    padding: 10px;
+}
+
+.text
+{
+    color: #FFF;
+}

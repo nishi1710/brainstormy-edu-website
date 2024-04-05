@@ -1,0 +1,85 @@
+#background
+{
+  background-image: url("bgimage.png");
+  background-repeat: no-repeat;
+  /* top: 200px; */
+  width: 100%;
+  top: 0px;
+  background-size: cover;
+  background-position: center;
+  height: 643px;
+}
+
+#heading_text_home
+{
+  position: absolute;
+  left: 230px;
+  top: 80px;
+  color: #FFF;
+  font-family: Inconsolata;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+#sub_text1
+{
+  position: absolute;
+  color: #FFF;
+  font-family: Inconsolata;
+  top: 300px;
+  width: 500px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 450;
+  line-height: normal;
+}
+
+#image_text
+{
+  position: absolute;
+  top: 200px;
+  left: 500px;
+} 
+
+
+#sub_text2
+{
+  position: absolute;
+  top: 200px;
+  right: 0px;
+  color: #FFF;
+  font-family: Inconsolata;
+  width: 500px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 450;
+  line-height: normal;
+}
+
+#submit_button
+{
+  position: absolute;
+  background-color: #8C60CE;
+  color: #FFF;
+  bottom: 100px;
+  right: 150px;
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+  font-family: Inconsolata;
+}
+
+/* #submit_button :hover
+{
+  position: absolute;
+  background-color: #FFF;
+  color: #FFF;
+  bottom: 100px;
+  right: 150px;
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+  font-family: Inconsolata;
+} */

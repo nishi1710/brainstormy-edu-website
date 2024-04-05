@@ -1,0 +1,115 @@
+#login_main
+{
+    background-image: url("bgimage.png");
+    background-repeat: no-repeat;
+    /* top: 200px; */
+
+    
+    width: 100%;
+    top: 0px;
+    background-size: cover;
+    background-position: center;
+    height: 643px;
+}
+
+#sub
+{
+    position: absolute;
+    text-align: center;
+    left: 300px;
+    top: 0px;
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#email
+{
+    position: absolute;
+    left: 200px;
+    top: 130px;
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+#box
+{
+    position: absolute;
+    border-radius: 30px;
+    left: 190px;
+    bottom: 40px;
+    border-radius: 100px;
+    background: rgba(0, 0, 0, 0.50);
+    width: 900px;
+    height: 500px;
+    flex-shrink: 0;
+}
+
+#text-box
+{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    width: 550px;
+    background: rgba(192, 159, 247, 0.35);
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#password
+{
+    position: absolute;
+    left: 200px;
+    bottom: 160px;
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#pass-box
+{
+    position: absolute;
+    left: 200px;
+    bottom: 160px;
+    width: 550px;
+    background: rgba(192, 159, 247, 0.35);
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#submit_btn
+{
+    position: absolute;
+    left: 400px;
+    bottom: 80px;
+    background-color: #a07cd5;
+    width: 170px;
+    height: 40px;
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+ 

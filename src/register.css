@@ -1,0 +1,166 @@
+#register_page
+{
+    background-image: url("bgimage.png");
+    background-repeat: no-repeat;
+    /* top: 200px; */
+    width: 100%;
+    top: 0px;
+    background-size: cover;
+    background-position: center;
+    height: 643px;
+}
+
+#heading
+{
+    position: absolute;
+    left: 460px;
+    top: 65px;
+    color: #E0D2F5;
+    font-family: Inconsolata;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#sub-heading
+{
+    position: absolute;
+    left: 510px;
+    top: 120px;
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#name-title
+{
+    position: absolute;
+    left: 200px;
+    top: 190px;
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+#name-box
+{
+    position: absolute;
+    left: 200px;
+    top: 256px;
+}
+
+#name-info
+{
+    background: rgba(205, 184, 238, 0.30);
+    width: 350px;
+    color: #FFF;
+    font-family: Inconsolata;
+}
+
+#pass-title
+{
+    position: absolute;
+    right: 350px;
+    top: 400px;
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+#passw-box
+{
+    position: absolute;
+    bottom: 150px;
+    right: 110px;
+}
+
+#pass-info
+{
+    background: rgba(205, 184, 238, 0.30);
+    width: 350px;
+    color: #FFF;
+    font-family: Inconsolata;
+}
+
+#phone-title
+{
+    position: absolute;
+    left: 200px;
+    top: 400px;
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+#phoneno-box
+{
+    position: absolute;
+    left: 200px;
+    bottom: 150px;
+}
+
+#phoneno-info
+{
+    background: rgba(205, 184, 238, 0.30);
+    width: 350px;
+    color: #FFF;
+    font-family: Inconsolata;
+}
+
+#emails-title
+{
+    position: absolute;
+    right: 380px;
+    top: 190px;
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+#emails-box
+{
+    position: absolute;
+    right: 110px;
+    top: 256px;
+}
+
+#emails-info
+{
+    background: rgba(205, 184, 238, 0.30);
+    width: 350px;
+    color: #FFF;
+    font-family: Inconsolata;
+}
+
+#reg_button
+{
+    position: absolute;
+    left: 590px;
+    bottom: 50px;
+    background-color: #a07cd5;
+    width: 170px;
+    height: 40px;
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
